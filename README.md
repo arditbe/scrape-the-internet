@@ -33,3 +33,9 @@ cd scrape-the-internet
 pip -r install requirements.txt
 python3 srapper.py
 ```
+
+3. Run the Scrapper Robust mode:
+
+```bash
+python3 robust-srapper.py
+```

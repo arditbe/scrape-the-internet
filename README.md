@@ -25,3 +25,11 @@ Scrape search engines like **DuckDuckGo, Bing, Yandex, and AOL** to collect text
 ```bash
 git clone https://github.com/arditbe/scrape-the-internet.git
 cd scrape-the-internet
+```
+
+2. Run the Scrapper:
+
+```bash
+pip -r install requirements.txt
+python3 srapper.py
+```
